@@ -15,8 +15,8 @@
     "elastic"
   ],
   "require": {
-    "php": "^7.2|^8.0|^8.1",
-    "laravel/scout": "^9.3"
+    "php": "^7.2|^8.0|^8.1|^8.2",
+    "laravel/scout": "^9.3|^10.0"
   },
   "require-dev": {
     "elasticsearch/elasticsearch": "^7.9",
